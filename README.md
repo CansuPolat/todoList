@@ -8,9 +8,9 @@ Ayrıca veriler Local Storage ile kalıcı olarak saklanır.
 
 HTML5
 
-CSS3
+CSS
 
-JavaScript (Vanilla JS)
+JavaScript
 
 LocalStorage (Tarayıcı veri yönetimi)
 
